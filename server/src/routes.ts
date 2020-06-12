@@ -8,7 +8,7 @@ const pointsController = new PointsController();
 const itemsController = new ItemsController();
 
 routes.get("/", (request, response) => {
-  response.json({ message: "API Coleta!" });
+  response.json({ message: "API Ecoleta!" });
 });
 
 routes.get("/items", itemsController.index);
