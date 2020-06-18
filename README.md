@@ -1,5 +1,6 @@
 <h1 align="center">
     <img alt="Logo" title="#logo" width="300px" src=".github/logoNLW01.svg" />
+    <br /><br />
     <p align="center">Projeto Desenvolvido</p>
     <img alt="Ecoleta" title="Ecoleta" src=".github/ecoleta.svg" width="220px" />
 </h1>
